@@ -144,14 +144,14 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
   name: 'India wale',
   album: 'Happy New Year',
   duration: '2:04',
-  image: '/songs/songimg/happyh1.jpg',
+  image: '/project/songs/songimg/happyh1.jpg',
   category: 'Happy (Hindi)'
 },
 {
     'name': 'Jag ghoomeya',
     'album': 'Sultan',
     'duration': '2:35',
-   'image': '/songs/songimg/happyh2.jpg',
+   'image': '/project/songs/songimg/happyh2.jpg',
      id:'2',
      category: 'Happy (Hindi)'
     },
@@ -160,7 +160,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
     'name': 'Radio',
     'album': 'Tubelight',
     'duration': '4:49',
-    'image': '/songs/songimg/happyh3.jpg',
+    'image': '/project/songs/songimg/happyh3.jpg',
    'id':'3',
    category: 'Happy (Hindi)'
 },
@@ -169,7 +169,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
     'name': 'Rang De Basanti',
       'album': 'Rang De Basanti',
     'duration': '6:03',
-    'image': '/songs/songimg/happyh4.jpg',
+    'image': '/project/songs/songimg/happyh4.jpg',
    'id':'4',
    category: 'Happy (Hindi)'
  },
@@ -179,7 +179,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
        'album': 'Single',
        'duration': '3:08',
        'fileName': 'songs/happyp1.mp3',
-       'image': '/songs/songimg/happyp1.jpg',
+       'image': '/project/songs/songimg/happyp1.jpg',
        'id':'5',
        category: 'Happy (Punjabi)'
    },
@@ -189,7 +189,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
        'album': 'Single',
        'duration': '2:04',
        'fileName': 'songs/happyp2.mp3',
-      'image': '/songs/songimg/happyp2.jpg',
+      'image': '/project/songs/songimg/happyp2.jpg',
       'id':'6',
       category: 'Happy (Punjabi)'
    },
@@ -200,7 +200,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
        'album': 'Single',
        'duration': '2:43',
        'fileName': 'songs/happyp3.mp3',
-       'image': '/songs/songimg/happyp3.jpg',
+       'image': '/project/songs/songimg/happyp3.jpg',
        'id':'7',
        category: 'Happy (Punjabi)'
    },
@@ -211,7 +211,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
        'album': 'Time table',
        'duration': '4:42',
        'fileName': 'songs/happyp4.mp3',
-       'image': '/songs/songimg/happyp4.jpg',
+       'image': '/project/songs/songimg/happyp4.jpg',
        'id':'8',
        category: 'Happy (Punjabi)'
    },
@@ -221,7 +221,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
           'album': 'Single',
           'duration': '1:18',
           'fileName': 'songs/happye1.mp3',
-          'image': '/songs/songimg/happye1.jpg',
+          'image': '/project/songs/songimg/happye1.jpg',
           'id':'9',
           category: 'Happy (English)'
 
@@ -232,7 +232,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
           'album': 'Single',
           'duration': '5:52',
           'fileName': 'songs/rome1.mp3',
-         'image': '/songs/songimg/rome1.jpg',
+         'image': '/project/songs/songimg/rome1.jpg',
          'id':'10',
          category: 'Happy (English)'
 
@@ -244,7 +244,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
           'album': 'Single',
           'duration': '1:11',
           'fileName': 'songs/happye3.mp3',
-          'image': '/songs/songimg/happye3.jpg',
+          'image': '/project/songs/songimg/happye3.jpg',
           'id':'11',
           category: 'Happy (English)'
 
@@ -256,7 +256,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
           'album': 'Single',
           'duration': '2:19',
           'fileName': 'songs/happye4.mp3',
-          'image': '/songs/songimg/happye4.jpg',
+          'image': '/project/songs/songimg/happye4.jpg',
           'id':'12',
           category: 'Happy (English)'
       },
@@ -267,7 +267,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
              'album': 'Baaghi',
              'duration': '4:44',
              'fileName': 'songs/song1.mp3',
-             'image': '/songs/songimg/rainyh3.jpg',
+             'image': '/project/songs/songimg/rainyh3.jpg',
              'id':'13',
              category: 'Rainy (Hindi)'
          },
@@ -277,7 +277,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
            'album': 'Aashiqui 2',
            'duration': '6:30',
            'fileName': 'songs/song3.mp3',
-          'image': '/songs/songimg/sahh2.png',
+          'image': '/project/songs/songimg/sahh2.png',
           'id':'14',
           category: 'sad (Hindi)'
 
@@ -290,7 +290,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
            'album': 'Aashiqui 2',
            'duration': '4:24',
            'fileName': 'songs/song4.mp3',
-           'image': '/songs/songimg/romantich4.jpg',
+           'image': '/project/songs/songimg/romantich4.jpg',
            'id':'15',
            category: 'Romantic (Hindi)'
 
@@ -301,7 +301,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
         'album': 'Khoobsurat',
         'duration': '2:59',
         'fileName': 'songs/partyh1.mp3',
-        'image': '/songs/songimg/partyh1.jpg',
+        'image': '/project/songs/songimg/partyh1.jpg',
         'id':'16',
         category: 'Party (Hindi)'
     },
@@ -311,7 +311,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
         'album': 'Roy',
         'duration': '4:05',
         'fileName': 'songs/partyh2.mp3',
-       'image': '/songs/songimg/partyh2.jpg',
+       'image': '/project/songs/songimg/partyh2.jpg',
        'id':'17',
        category: 'Party (Hindi)'
     },
@@ -322,7 +322,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
         'album': 'Baar Baar dekho',
         'duration': '4:24',
         'fileName': 'songs/partyh3.mp3',
-        'image': '/songs/songimg/partyh3.jpg',
+        'image': '/project/songs/songimg/partyh3.jpg',
         'id':'18',
         category: 'Party (Hindi)'
 
@@ -334,7 +334,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
         'album': 'Befikre',
         'duration': '3:58',
         'fileName': 'songs/partyh4.mp3',
-        'image': '/songs/songimg/partyh4.jpg',
+        'image': '/project/songs/songimg/partyh4.jpg',
         'id':'19',
         category: 'Party (Hindi)'
     },
@@ -344,7 +344,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
            'album': 'Dhadkan',
            'duration': '4:35',
            'fileName': 'songs/wedh1.mp3',
-           'image': '/songs/songimg/wedh1.jpg',
+           'image': '/project/songs/songimg/wedh1.jpg',
            'id':'20',
            category: 'Wedding (Hindi)'
        },
@@ -354,7 +354,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
              'album': 'Brahmachari',
              'duration': '5:11',
              'fileName': 'songs/retroh1.mp3',
-             'image': '/songs/songimg/retroh2.jpg',
+             'image': '/project/songs/songimg/retroh2.jpg',
              'id':'21',
              category: 'Retro (Hindi)'
          },
@@ -364,7 +364,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
                 'album': 'Devichya Aartya',
                 'duration': '2:55',
                 'fileName': 'songs/relh1.mp3',
-                'image': '/songs/songimg/relh1.jpg',
+                'image': '/project/songs/songimg/relh1.jpg',
                 'id':'22',
                 category: 'Religious (Hindi)'
             }];
@@ -377,20 +377,20 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
     artist: ' Neeti Mohan, KK, Vishal Dadlani',
     album: 'Happy New Year',
     duration: '2:04',
-    image: '/songs/songimg/happyh1.jpg',
+    image: '/project/songs/songimg/happyh1.jpg',
     category: 'Happy',
     video: 'https://www.youtube.com/embed/X-DDknSzELI',
-    lyrics: '/lyrics/1.png'
+    lyrics: '/project/lyrics/1.png'
 },
 {
     'name': 'Jag ghoomeya',
     'artist': 'Rahat Fateh Ali Khan',
     'album': 'Sultan',
     'duration': '2:35',
-   'image': '/songs/songimg/happyh2.jpg',
+   'image': '/project/songs/songimg/happyh2.jpg',
    category: 'Happy',
    video: 'https://www.youtube.com/embed/t10sQb0Zmjs',
-   lyrics: '/lyrics/2.png'
+   lyrics: '/project/lyrics/2.png'
 },
 {
 
@@ -398,10 +398,10 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
     'artist': ' Kamaal Khan, Amit Mishra',
     'album': 'Tubelight',
     'duration': '4:49',
-    'image': '/songs/songimg/happyh3.jpg',
+    'image': '/project/songs/songimg/happyh3.jpg',
     category: 'Happy',
     video: 'https://www.youtube.com/embed/FIMz4M2Vuw4',
-    lyrics: '/lyrics/3.png'
+    lyrics: '/project/lyrics/3.png'
 },
 
 {
@@ -409,10 +409,10 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
     'artist': 'A. R. Rahman',
     'album': 'Rang De Basanti',
     'duration': '6:03',
-    'image': '/songs/songimg/happyh4.jpg',
+    'image': '/project/songs/songimg/happyh4.jpg',
     category: 'Happy',
     video: 'https://www.youtube.com/embed/c769V25pX08',
-    lyrics: '/lyrics/4.png'
+    lyrics: '/project/lyrics/4.png'
 },
 {
       'name': 'Kadar',
@@ -420,11 +420,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
       'album': 'Single',
       'duration': '3:08',
       'fileName': 'songs/happyp1.mp3',
-      'image': '/songs/songimg/happyp1.jpg',
+      'image': '/project/songs/songimg/happyp1.jpg',
       'id':'5',
       category: 'Happy',
       video: 'https://www.youtube.com/embed/BgrJ4k5FtE',
-      lyrics: '/lyrics/5.png'
+      lyrics: '/project/lyrics/5.png'
   },
   {
       'name': 'Lamborghini',
@@ -432,11 +432,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
       'album': 'Single',
       'duration': '2:04',
       'fileName': 'songs/happyp2.mp3',
-     'image': '/songs/songimg/happyp2.jpg',
+     'image': '/project/songs/songimg/happyp2.jpg',
      'id':'6',
      category: 'Happy',
      video: 'https://www.youtube.com/embed/fychacOx7F8',
-     lyrics: '/lyrics/6.png'
+     lyrics: '/project/lyrics/6.png'
   },
 {
 
@@ -445,11 +445,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
       'album': 'Single',
       'duration': '2:43',
       'fileName': 'songs/happyp3.mp3',
-      'image': '/songs/songimg/happyp3.jpg',
+      'image': '/project/songs/songimg/happyp3.jpg',
       'id':'7',
       category: 'Happy',
       video: 'https://www.youtube.com/embed/FUhqGOb1-gc',
-      lyrics: '/lyrics/7.png'
+      lyrics: '/project/lyrics/7.png'
   },
 
   {
@@ -458,11 +458,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
       'album': 'Time table',
       'duration': '4:42',
       'fileName': 'songs/happyp4.mp3',
-      'image': '/songs/songimg/happyp4.jpg',
+      'image': '/project/songs/songimg/happyp4.jpg',
       'id':'8',
       category: 'Happy',
       video: 'https://www.youtube.com/embed/6tpLUszWs9M',
-      lyrics: '/lyrics/8.png'
+      lyrics: '/project/lyrics/8.png'
   },
   {
          'name': 'Happy Together',
@@ -470,11 +470,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
          'album': 'Single',
          'duration': '1:18',
          'fileName': 'songs/happye1.mp3',
-         'image': '/songs/songimg/happye1.jpg',
+         'image': '/project/songs/songimg/happye1.jpg',
          'id':'9',
          category: 'Happy',
          video: 'https://www.youtube.com/embed/mRCe5L1imxg',
-         lyrics: '/lyrics/9.png'
+         lyrics: '/project/lyrics/9.png'
 
      },
      {
@@ -483,11 +483,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
          'album': 'Single',
          'duration': '5:52',
          'fileName': 'songs/rome1.mp3',
-        'image': '/songs/songimg/rome1.jpg',
+        'image': '/project/songs/songimg/rome1.jpg',
         'id':'10',
         category: 'Happy',
         video: 'https://www.youtube.com/embed/a7SouU3ECpU',
-        lyrics: '/lyrics/10.png'
+        lyrics: '/project/lyrics/10.png'
 
      },
   {
@@ -497,11 +497,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
          'album': 'Single',
          'duration': '1:11',
          'fileName': 'songs/happye3.mp3',
-         'image': '/songs/songimg/happye3.jpg',
+         'image': '/project/songs/songimg/happye3.jpg',
          'id':'11',
          category: 'Happy',
          video: 'https://www.youtube.com/embed/Qh9ZZgDqzAg',
-         lyrics: '/lyrics/11.png'
+         lyrics: '/project/lyrics/11.png'
 
      },
 
@@ -511,11 +511,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
          'album': 'Single',
          'duration': '2:19',
          'fileName': 'songs/happye4.mp3',
-         'image': '/songs/songimg/happye4.jpg',
+         'image': '/project/songs/songimg/happye4.jpg',
          'id':'12',
          category: 'Happy',
          video: 'https://www.youtube.com/embed/2MZxf-lQD-o',
-         lyrics: '/lyrics/12.png'
+         lyrics: '/project/lyrics/12.png'
      },
      {
 
@@ -524,11 +524,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
             'album': 'Baaghi',
             'duration': '4:44',
             'fileName': 'songs/song1.mp3',
-            'image': '/songs/songimg/rainyh3.jpg',
+            'image': '/project/songs/songimg/rainyh3.jpg',
             'id':'13',
             category: 'Rainy',
             video: 'https://www.youtube.com/embed/f6vY6tYvKGA',
-            lyrics: '/lyrics/13.png'
+            lyrics: '/project/lyrics/13.png'
         },
       {
           'name': 'Sun Raha Hai Naa Tu ',
@@ -536,11 +536,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
           'album': 'Aashiqui 2',
           'duration': '6:30',
           'fileName': 'songs/song3.mp3',
-         'image': '/songs/songimg/sahh2.png',
+         'image': '/project/songs/songimg/sahh2.png',
          'id':'14',
          category: 'sad',
          video: 'https://www.youtube.com/embed/z3UHfi9vpbc',
-         lyrics: '/lyrics/14.png'
+         lyrics: '/project/lyrics/14.png'
 
       },
 
@@ -551,11 +551,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
           'album': 'Aashiqui 2',
           'duration': '4:24',
           'fileName': 'songs/song4.mp3',
-          'image': '/songs/songimg/romantich4.jpg',
+          'image': '/project/songs/songimg/romantich4.jpg',
           'id':'15',
           category: 'Romantic',
           video: 'https://www.youtube.com/embed/Umqb9KENgmk',
-          lyrics: '/lyrics/15.png'
+          lyrics: '/project/lyrics/15.png'
 
       },
       {
@@ -564,11 +564,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
            'album': 'Khoobsurat',
            'duration': '2:59',
            'fileName': 'songs/partyh1.mp3',
-           'image': '/songs/songimg/partyh1.jpg',
+           'image': '/project/songs/songimg/partyh1.jpg',
            'id':'16',
            category: 'Party (Hindi)',
            video: 'https://www.youtube.com/embed/8LZgzAZ2lpQ',
-           lyrics: '/lyrics/16.png'
+           lyrics: '/project/lyrics/16.png'
        },
        {
            'name': 'Chittiyan kalaiyan',
@@ -576,11 +576,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
            'album': 'Roy',
            'duration': '4:05',
            'fileName': 'songs/partyh2.mp3',
-          'image': '/songs/songimg/partyh2.jpg',
+          'image': '/project/songs/songimg/partyh2.jpg',
           'id':'17',
           category: 'Party (Hindi)',
           video: 'https://www.youtube.com/embed/zpsVpnvFfZQ',
-          lyrics: '/lyrics/17.png'
+          lyrics: '/project/lyrics/17.png'
        },
     {
 
@@ -589,11 +589,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
            'album': 'Baar Baar dekho',
            'duration': '4:24',
            'fileName': 'songs/partyh3.mp3',
-           'image': '/songs/songimg/partyh3.jpg',
+           'image': '/project/songs/songimg/partyh3.jpg',
            'id':'18',
            category: 'Party (Hindi)',
            video: 'https://www.youtube.com/embed/k4yXQkG2s1E',
-           lyrics: '/lyrics/18.png'
+           lyrics: '/project/lyrics/18.png'
 
        },
 
@@ -603,11 +603,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
            'album': 'Befikre',
            'duration': '3:58',
            'fileName': 'songs/partyh4.mp3',
-           'image': '/songs/songimg/partyh4.jpg',
+           'image': '/project/songs/songimg/partyh4.jpg',
            'id':'19',
            category: 'Party (Hindi)',
            video: 'https://www.youtube.com/embed/Wd2B8OAotU8',
-           lyrics: '/lyrics/19.png'
+           lyrics: '/project/lyrics/19.png'
        },
        {
               'name': 'Dulhe ka sehra',
@@ -615,11 +615,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
               'album': 'Dhadkan',
               'duration': '4:35',
               'fileName': 'songs/wedh1.mp3',
-              'image': '/songs/songimg/wedh1.jpg',
+              'image': '/project/songs/songimg/wedh1.jpg',
               'id':'20',
               category: 'Wedding (Hindi)',
               video: 'https://www.youtube.com/embed/VPg3WCPixKU',
-              lyrics: '/lyrics/20.png'
+              lyrics: '/project/lyrics/20.png'
           },
           {
                 'name': 'Aajkal tere mere pyaar ke',
@@ -627,11 +627,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
                 'album': 'Brahmachari',
                 'duration': '5:11',
                 'fileName': 'songs/retroh1.mp3',
-                'image': '/songs/songimg/retroh2.jpg',
+                'image': '/project/songs/songimg/retroh2.jpg',
                 'id':'21',
                 category: 'Retro (Hindi)',
                 video: 'https://www.youtube.com/embed/KIvLi9JT8tE',
-                lyrics: '/lyrics/21.png'
+                lyrics: '/project/lyrics/21.png'
             },
             {
                    'name': 'Ganesh aarti',
@@ -639,11 +639,11 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
                    'album': 'Devichya Aartya',
                    'duration': '2:55',
                    'fileName': 'songs/relh1.mp3',
-                   'image': '/songs/songimg/relh1.jpg',
+                   'image': '/project/songs/songimg/relh1.jpg',
                    'id':'22',
                    category: 'Religious (Hindi)',
                    video: 'https://www.youtube.com/embed/ZYxdhMAF4F0',
-                   lyrics: '/lyrics/22.png'
+                   lyrics: '/project/lyrics/22.png'
                }
 ]
   $scope.lyric = lyrics[$routeParams.id - 1];})
