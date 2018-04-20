@@ -277,7 +277,7 @@ musicaApp.controller('lyricController',function($scope) { //object variable-crea
            'album': 'Aashiqui 2',
            'duration': '6:30',
            'fileName': 'songs/song3.mp3',
-          'image': '/project/songs/songimg/sahh2.png',
+          'image': '/project/songs/songimg/sahh2.PNG',
           'id':'14',
           category: 'sad (Hindi)'
 
@@ -536,7 +536,7 @@ musicaApp.controller('lyricsController',function($scope,$routeParams) {
           'album': 'Aashiqui 2',
           'duration': '6:30',
           'fileName': 'songs/song3.mp3',
-         'image': '/project/songs/songimg/sahh2.png',
+         'image': '/project/songs/songimg/sahh2.PNG',
          'id':'14',
          category: 'sad',
          video: 'https://www.youtube.com/embed/z3UHfi9vpbc',
